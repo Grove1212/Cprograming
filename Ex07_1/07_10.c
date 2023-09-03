@@ -1,0 +1,24 @@
+/*
+#include <stdio.h>
+#include <string.h>
+
+int main(void)
+{
+	char str1[20];
+	char str2[20] = "ABCDE";
+
+	strcpy_s(str1,20, "abcde");
+
+	if(strcmp(str1, "abcde") == 0)
+		printf("두 문자열은 같습니다.\n");
+	else
+		printf("두 문자열은 다릅니다.\n");
+
+
+	if (strcmp(str1, str2) == 0)
+		printf("두 문자열은 같습니다.\n");
+	else
+		printf("두 문자열은 다릅니다.\n");
+
+	return 0;
+}*/

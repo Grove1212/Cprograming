@@ -129,6 +129,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="07_1.c" />
+    <ClCompile Include="07_10.c" />
     <ClCompile Include="07_3.c" />
     <ClCompile Include="07_4.c" />
     <ClCompile Include="07_5.c" />

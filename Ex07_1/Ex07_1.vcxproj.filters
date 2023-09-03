@@ -33,5 +33,8 @@
     <ClCompile Include="07_9.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="07_10.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
