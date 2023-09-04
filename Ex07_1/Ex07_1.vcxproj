@@ -130,6 +130,10 @@
   <ItemGroup>
     <ClCompile Include="07_1.c" />
     <ClCompile Include="07_10.c" />
+    <ClCompile Include="07_11.c" />
+    <ClCompile Include="07_12.c" />
+    <ClCompile Include="07_13.c" />
+    <ClCompile Include="07_14.c" />
     <ClCompile Include="07_3.c" />
     <ClCompile Include="07_4.c" />
     <ClCompile Include="07_5.c" />

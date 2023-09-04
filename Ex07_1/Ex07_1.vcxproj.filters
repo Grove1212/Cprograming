@@ -36,5 +36,17 @@
     <ClCompile Include="07_10.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="07_11.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="07_12.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="07_13.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="07_14.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
