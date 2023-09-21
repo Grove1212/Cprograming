@@ -15,37 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="07_1.c">
+    <ClCompile Include="08_01.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="07_3.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="07_4.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="07_5.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="07_8.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="07_9.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="07_10.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="07_11.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="07_12.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="07_13.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="07_14.c">
+    <ClCompile Include="08_02.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
